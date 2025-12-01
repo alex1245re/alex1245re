@@ -1,5 +1,7 @@
-<div align="center">
-  <img height="150" src="https://soyhorizonte.com/wp-content/uploads/2020/10/JS-by-SoyHorizonte.gif"  />
+<br clear="both">
+
+<div align="right">
+  <img height="150" src="https://ethic.es/wp-content/uploads/2021/11/paccc.gif"  />
 </div>
 
 ###
@@ -16,12 +18,6 @@
 ###
 
 <h1 align="center">Bienvenid@/s👋</h1>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 ###
 
